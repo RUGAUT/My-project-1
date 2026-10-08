@@ -1,9 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-// Déplacement gauche/droite + saut avec ground check (nouveau Input System).
-// Touches : flèches ou Q/D (AZERTY) pour bouger, Espace ou flèche haut pour sauter.
-// Manette : stick gauche pour bouger, bouton A (Xbox) / Croix (PlayStation) pour sauter.
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerMovement : MonoBehaviour
 {
@@ -14,15 +11,14 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float forceSaut = 12f;
 
     [Header("Ground Check")]
-    [SerializeField] private Transform groundCheck;          // objet vide placé sous les pieds
+    [SerializeField] private Transform groundCheck;
     [SerializeField] private float rayonGroundCheck = 0.2f;
-    [SerializeField] private LayerMask coucheSol;            // la couche "Ground" de ton sol
-
-    [Header("Options")]
-    [SerializeField] private bool retournerSprite = true;
+    [SerializeField] private LayerMask coucheSol;
 
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
+    private Animator animator;
+
     private float entreeHorizontale;
     private bool demandeSaut;
     private bool estAuSol;
@@ -31,6 +27,7 @@ public class PlayerMovement : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
         rb.freezeRotation = true;
     }
 
@@ -41,10 +38,8 @@ public class PlayerMovement : MonoBehaviour
         Keyboard clavier = Keyboard.current;
         Gamepad manette = Gamepad.current;
 
-        // --- Déplacement ---
         if (clavier != null)
         {
-            // Key.A = touche physique en haut à gauche, donc Q sur un clavier AZERTY
             if (clavier.leftArrowKey.isPressed || clavier.aKey.isPressed) entreeHorizontale -= 1f;
             if (clavier.rightArrowKey.isPressed || clavier.dKey.isPressed) entreeHorizontale += 1f;
         }
@@ -55,7 +50,6 @@ public class PlayerMovement : MonoBehaviour
             if (Mathf.Abs(stick) > 0.2f) entreeHorizontale = Mathf.Sign(stick);
         }
 
-        // --- Saut (lu dans Update pour ne rater aucun appui) ---
         bool appuiSaut =
             (clavier != null && (clavier.spaceKey.wasPressedThisFrame || clavier.upArrowKey.wasPressedThisFrame)) ||
             (manette != null && manette.buttonSouth.wasPressedThisFrame);
@@ -65,20 +59,21 @@ public class PlayerMovement : MonoBehaviour
             demandeSaut = true;
         }
 
-        // --- Orientation du sprite ---
-        if (retournerSprite && spriteRenderer != null && entreeHorizontale != 0f)
+        // Flip du sprite
+        if (entreeHorizontale != 0f)
         {
             spriteRenderer.flipX = entreeHorizontale < 0f;
         }
+
+        // Animations
+        animator.SetFloat("speed", Mathf.Abs(entreeHorizontale));
+        animator.SetBool("isJumping", !estAuSol);
     }
 
     private void FixedUpdate()
     {
-        // Vérifie si un cercle sous les pieds touche la couche du sol
-        estAuSol = groundCheck != null &&
-                   Physics2D.OverlapCircle(groundCheck.position, rayonGroundCheck, coucheSol);
+        estAuSol = Physics2D.OverlapCircle(groundCheck.position, rayonGroundCheck, coucheSol);
 
-        // Unity 6 : linearVelocity. Pour Unity 2022 ou plus ancien, remplacer par rb.velocity
         Vector2 v = rb.linearVelocity;
         v.x = entreeHorizontale * vitesse;
 
@@ -91,7 +86,6 @@ public class PlayerMovement : MonoBehaviour
         rb.linearVelocity = v;
     }
 
-    // Affiche le cercle du ground check dans la vue Scene (vert = au sol, rouge = en l'air)
     private void OnDrawGizmosSelected()
     {
         if (groundCheck == null) return;
