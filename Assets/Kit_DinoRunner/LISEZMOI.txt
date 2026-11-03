@@ -1,0 +1,40 @@
+KIT DINO RUNNER – Cours d'initiation à Unity 2D
+================================================
+
+COMMENT IMPORTER DANS UNITY
+1. Dézippez le dossier, puis glissez les sous-dossiers dans Assets/ de votre projet Unity
+   (par exemple Assets/Sprites/Personnages, Assets/Sprites/Obstacles…).
+2. Sélectionnez TOUTES les images, puis dans l'Inspector :
+   - Texture Type : Sprite (2D and UI)
+   - Pixels Per Unit : 16      (le même pour tout le kit !)
+   - Filter Mode : Point (no filter)
+   - Compression : None
+   - cliquez sur Apply
+3. Pour les planches d'animation (Sprite Mode : Multiple), ouvrez le Sprite Editor
+   puis Slice > Type : Grid By Cell Size, avec la taille indiquée ci-dessous > Slice > Apply.
+
+TAILLE DES CASES À DÉCOUPER (Grid By Cell Size)
+Personnages/Dino_*.png .......... 24 x 24  (24 images)
+   images 0 à 3   : Idle (attente)
+   images 4 à 9   : Course
+   images 10 à 12 : Coup de pied
+   images 13 à 16 : Touché (dégât)
+   images 17 à 23 : Accroupi / marche accroupie
+   Astuce : l'image 7 ou 10 fait une bonne pose de saut.
+Obstacles/Cactus_anime.png ...... 32 x 32  (6 images)
+Obstacles/Oiseau.png ............ 32 x 32  (4 images)
+Obstacles/Pics.png .............. 16 x 16
+Obstacles/Cactus_*.png .......... image unique (Sprite Mode : Single)
+Collectibles/Piece_or.png ....... 16 x 16  (8 images)
+Collectibles/Piece_argent.png ... 16 x 16  (8 images)
+Collectibles/Gemme.png .......... 16 x 16  (5 images)
+Collectibles/Coeur.png .......... 16 x 16  (3 images)
+UI/Coeurs_vie.png ............... 16 x 16  (plein, plein, moitié, vide)
+UI/Icone_piece.png .............. 16 x 16  (6 images)
+UI/Chiffres.png ................. découpe automatique (Type : Automatic)
+Decor/Tileset_desert.png ........ 16 x 16  (à utiliser dans une Tile Palette)
+Decor/Fond_*.png, Nuages, Montagnes : images uniques de 256 x 128, à répéter pour le défilement.
+FX/Collecte_piece.png ........... 16 x 16  (10 images)
+FX/Impact.png ................... 48 x 48  (5 images)
+
+Voir CREDITS.txt pour les auteurs et les licences.

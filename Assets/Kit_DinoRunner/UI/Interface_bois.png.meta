@@ -1,0 +1,2301 @@
+fileFormatVersion: 2
+guid: ab9b41f9ae1c19a4387aa672e2414245
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2824278448993391367
+    second: Interface_bois_0
+  - first:
+      213: -3510407283412554882
+    second: Interface_bois_1
+  - first:
+      213: -8869009581497320018
+    second: Interface_bois_2
+  - first:
+      213: -5682899631850520890
+    second: Interface_bois_3
+  - first:
+      213: -4880072283595977242
+    second: Interface_bois_4
+  - first:
+      213: -4865539939872852941
+    second: Interface_bois_5
+  - first:
+      213: -8788362127497195139
+    second: Interface_bois_6
+  - first:
+      213: 8469515118011815418
+    second: Interface_bois_7
+  - first:
+      213: 7997101024980963638
+    second: Interface_bois_8
+  - first:
+      213: 5612251400657437566
+    second: Interface_bois_9
+  - first:
+      213: 8628805529338869977
+    second: Interface_bois_10
+  - first:
+      213: 3754030399200595509
+    second: Interface_bois_11
+  - first:
+      213: -7724009971889293483
+    second: Interface_bois_12
+  - first:
+      213: -1561636495161604143
+    second: Interface_bois_13
+  - first:
+      213: -2729018415131510639
+    second: Interface_bois_14
+  - first:
+      213: -8377180957594502762
+    second: Interface_bois_15
+  - first:
+      213: 9167317675160682694
+    second: Interface_bois_16
+  - first:
+      213: 513870444077746688
+    second: Interface_bois_17
+  - first:
+      213: -5173753127379464833
+    second: Interface_bois_18
+  - first:
+      213: -6509409644132730489
+    second: Interface_bois_19
+  - first:
+      213: -6651178037939830073
+    second: Interface_bois_20
+  - first:
+      213: -5300494876248904995
+    second: Interface_bois_21
+  - first:
+      213: 5613318242708730730
+    second: Interface_bois_22
+  - first:
+      213: 3994774071353738287
+    second: Interface_bois_23
+  - first:
+      213: -593133022590002804
+    second: Interface_bois_24
+  - first:
+      213: -9110521885372679393
+    second: Interface_bois_25
+  - first:
+      213: -7679558065799660679
+    second: Interface_bois_26
+  - first:
+      213: 5791812618954616477
+    second: Interface_bois_27
+  - first:
+      213: -8762165272660990451
+    second: Interface_bois_28
+  - first:
+      213: 3249125890300633637
+    second: Interface_bois_29
+  - first:
+      213: 4141487463676039266
+    second: Interface_bois_30
+  - first:
+      213: -6564145706215936092
+    second: Interface_bois_31
+  - first:
+      213: -4488909221342063484
+    second: Interface_bois_32
+  - first:
+      213: -5182398701368875957
+    second: Interface_bois_33
+  - first:
+      213: -2296979606823232566
+    second: Interface_bois_34
+  - first:
+      213: 2555695218399069900
+    second: Interface_bois_35
+  - first:
+      213: -7560854079059523213
+    second: Interface_bois_36
+  - first:
+      213: -7793185262028848218
+    second: Interface_bois_37
+  - first:
+      213: 9080875404305685153
+    second: Interface_bois_38
+  - first:
+      213: 2832973833166074354
+    second: Interface_bois_39
+  - first:
+      213: 7383292572007609485
+    second: Interface_bois_40
+  - first:
+      213: 4181335190376612226
+    second: Interface_bois_41
+  - first:
+      213: 1762519504680766421
+    second: Interface_bois_42
+  - first:
+      213: 3227198262505059161
+    second: Interface_bois_43
+  - first:
+      213: 2802894131073298859
+    second: Interface_bois_44
+  - first:
+      213: -5108877131562598520
+    second: Interface_bois_45
+  - first:
+      213: -2446476336245202105
+    second: Interface_bois_46
+  - first:
+      213: -6607479344388316936
+    second: Interface_bois_47
+  - first:
+      213: 6167678097312340330
+    second: Interface_bois_48
+  - first:
+      213: 8078436237002215571
+    second: Interface_bois_49
+  - first:
+      213: 5940520920140195207
+    second: Interface_bois_50
+  - first:
+      213: 2626487865815803383
+    second: Interface_bois_51
+  - first:
+      213: -6741410768114394446
+    second: Interface_bois_52
+  - first:
+      213: 9033235019224026151
+    second: Interface_bois_53
+  - first:
+      213: 5767286915943555959
+    second: Interface_bois_54
+  - first:
+      213: 7754151635761865392
+    second: Interface_bois_55
+  - first:
+      213: -8504514234493048638
+    second: Interface_bois_56
+  - first:
+      213: 6757626897572733969
+    second: Interface_bois_57
+  - first:
+      213: -6226942942444645065
+    second: Interface_bois_58
+  - first:
+      213: -1733881296931992882
+    second: Interface_bois_59
+  - first:
+      213: -150737450453330070
+    second: Interface_bois_60
+  - first:
+      213: -3475188256442044478
+    second: Interface_bois_61
+  - first:
+      213: -6628000847132626640
+    second: Interface_bois_62
+  - first:
+      213: -1279841430133958470
+    second: Interface_bois_63
+  - first:
+      213: -7818829406219978232
+    second: Interface_bois_64
+  - first:
+      213: -8434181225638956959
+    second: Interface_bois_65
+  - first:
+      213: 7849658388147548244
+    second: Interface_bois_66
+  - first:
+      213: 3026124518258845775
+    second: Interface_bois_67
+  - first:
+      213: -4252458752986823948
+    second: Interface_bois_68
+  - first:
+      213: 6222934568531860596
+    second: Interface_bois_69
+  - first:
+      213: 5644563865062001820
+    second: Interface_bois_70
+  - first:
+      213: -4032544120451193951
+    second: Interface_bois_71
+  - first:
+      213: 6921064314471993392
+    second: Interface_bois_72
+  - first:
+      213: 1742597994683215995
+    second: Interface_bois_73
+  - first:
+      213: -2085441832471508792
+    second: Interface_bois_74
+  - first:
+      213: 6147956605165857767
+    second: Interface_bois_75
+  - first:
+      213: 5115092673181608571
+    second: Interface_bois_76
+  - first:
+      213: -8903676407042647886
+    second: Interface_bois_77
+  - first:
+      213: 8834596955399066054
+    second: Interface_bois_78
+  - first:
+      213: -8753365425218059743
+    second: Interface_bois_79
+  - first:
+      213: -6433926012071351645
+    second: Interface_bois_80
+  - first:
+      213: 3258260493527082755
+    second: Interface_bois_81
+  - first:
+      213: -837817537001838263
+    second: Interface_bois_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Interface_bois_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703da03294ad13720800000000000000
+      internalID: 2824278448993391367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b2047bc27884fc0800000000000000
+      internalID: -3510407283412554882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadf05196c2fae480800000000000000
+      internalID: -8869009581497320018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cef955e4e84221b0800000000000000
+      internalID: -5682899631850520890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed48022d10864cb0800000000000000
+      internalID: -4880072283595977242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334376314312a7cb0800000000000000
+      internalID: -4865539939872852941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7198013537790680800000000000000
+      internalID: -8788362127497195139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af515ec5023c98570800000000000000
+      internalID: 8469515118011815418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63117e203096bfe60800000000000000
+      internalID: 7997101024980963638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e730066f9e8b2ed40800000000000000
+      internalID: 5612251400657437566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d87b2c59ecafb770800000000000000
+      internalID: 8628805529338869977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e8e5422cef81430800000000000000
+      internalID: 3754030399200595509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557b6f7aaddcec490800000000000000
+      internalID: -7724009971889293483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 99
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d74b9da1e3f35ae0800000000000000
+      internalID: -1561636495161604143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 99
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198369cd534902ad0800000000000000
+      internalID: -2729018415131510639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 97
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699b963ad464ebb80800000000000000
+      internalID: -8377180957594502762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0cc13eadad83f70800000000000000
+      internalID: 9167317675160682694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a83df3272a12700800000000000000
+      internalID: 513870444077746688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d0bfe31f22338b0800000000000000
+      internalID: -5173753127379464833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78977ffba6ee9a5a0800000000000000
+      internalID: -6509409644132730489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c287be50d442b3a0800000000000000
+      internalID: -6651178037939830073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddae7674efbd076b0800000000000000
+      internalID: -5300494876248904995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63bfdb733386ed40800000000000000
+      internalID: 5613318242708730730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f240bf84ad9407730800000000000000
+      internalID: 3994774071353738287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 66
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8918f398a4c4c7f0800000000000000
+      internalID: -593133022590002804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b70f76d9ce09180800000000000000
+      internalID: -9110521885372679393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b760090aabc6590800000000000000
+      internalID: -7679558065799660679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e2a6ef3e6a06050800000000000000
+      internalID: 5791812618954616477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0627c3cb19866680800000000000000
+      internalID: -8762165272660990451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522e4e958c6371d20800000000000000
+      internalID: 3249125890300633637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260d42ad7e4897930800000000000000
+      internalID: 4141487463676039266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afe71f224877e4a0800000000000000
+      internalID: -6564145706215936092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4845ee0b8d034b1c0800000000000000
+      internalID: -4488909221342063484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_33
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 64
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b446670b6db6418b0800000000000000
+      internalID: -5182398701368875957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb1cfea73d7f10e0800000000000000
+      internalID: -2296979606823232566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc647dea247a77320800000000000000
+      internalID: 2555695218399069900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37908133643721790800000000000000
+      internalID: -7560854079059523213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a306f35b4b09d390800000000000000
+      internalID: -7793185262028848218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 50
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aad8335110c50e70800000000000000
+      internalID: 9080875404305685153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 50
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f137d701beb05720800000000000000
+      internalID: 2832973833166074354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 49
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d843b43d979b67660800000000000000
+      internalID: 7383292572007609485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 49
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2810d35b336170a30800000000000000
+      internalID: 4181335190376612226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 50
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbc13ab62ab57810800000000000000
+      internalID: 1762519504680766421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_43
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 50
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9533f58a8bf49cc20800000000000000
+      internalID: 3227198262505059161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 49
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1b6a1ac51e5e620800000000000000
+      internalID: 2802894131073298859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_45
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 49
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f381c115f9919b0800000000000000
+      internalID: -5108877131562598520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 52
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743a4b2fbbe5c0ed0800000000000000
+      internalID: -2446476336245202105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_47
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 53
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0e0015b848d44a0800000000000000
+      internalID: -6607479344388316936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_48
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69524f3d8ef79550800000000000000
+      internalID: 6167678097312340330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 34
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3901927c4fe5c1070800000000000000
+      internalID: 8078436237002215571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785abb97d48f07250800000000000000
+      internalID: 5940520920140195207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_51
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f523d85cc8237420800000000000000
+      internalID: 2626487865815803383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba5c89bf92b172a0800000000000000
+      internalID: -6741410768114394446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_53
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 34
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c877dc36f7c5d70800000000000000
+      internalID: 9033235019224026151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_54
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 34
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773e296c4e4890050800000000000000
+      internalID: 5767286915943555959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_55
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2a91854d74c9b60800000000000000
+      internalID: 7754151635761865392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_56
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8e9c1dc55e9f980800000000000000
+      internalID: -8504514234493048638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_57
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 36
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114a2722cd9e7cd50800000000000000
+      internalID: 6757626897572733969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_58
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 36
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73516f6b2647599a0800000000000000
+      internalID: -6226942942444645065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_59
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 35
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaccad952400f7e0800000000000000
+      internalID: -1733881296931992882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a679163661978edf0800000000000000
+      internalID: -150737450453330070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 18
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfa92f61b6a5cfc0800000000000000
+      internalID: -3475188256442044478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031fbaf985c9404a0800000000000000
+      internalID: -6628000847132626640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_63
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8990c00071d3ee0800000000000000
+      internalID: -1279841430133958470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a31eab410fd7390800000000000000
+      internalID: -7818829406219978232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_65
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 18
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160758a8cd4c3fa80800000000000000
+      internalID: -8434181225638956959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_66
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 18
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45033b9f6b69fec60800000000000000
+      internalID: 7849658388147548244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_67
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f482bec5734fef920800000000000000
+      internalID: 3026124518258845775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_68
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2483e6b4b3cf4c0800000000000000
+      internalID: -4252458752986823948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_69
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c17d1050e4c5650800000000000000
+      internalID: 6222934568531860596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_70
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 18
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cc609dde4855e40800000000000000
+      internalID: 5644563865062001820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_71
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3aa6fdc768908c0800000000000000
+      internalID: -4032544120451193951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_72
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0305cbb135f8c0060800000000000000
+      internalID: 6921064314471993392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_73
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70b66bb4a3fe2810800000000000000
+      internalID: 1742597994683215995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8cbc7d3b50f03e0800000000000000
+      internalID: -2085441832471508792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_75
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb6d6985fde15550800000000000000
+      internalID: 6147956605165857767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_76
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a61327fa57cf640800000000000000
+      internalID: 5115092673181608571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_77
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b852334b79cf6480800000000000000
+      internalID: -8903676407042647886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_78
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c11f4c8f1bca9a70800000000000000
+      internalID: 8834596955399066054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_79
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 3
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12201b8e58cc58680800000000000000
+      internalID: -8753365425218059743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_80
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa6753616a16b6a0800000000000000
+      internalID: -6433926012071351645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307ee56e7aaa73d20800000000000000
+      internalID: 3258260493527082755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interface_bois_82
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 3
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949a96893697f54f0800000000000000
+      internalID: -837817537001838263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Interface_bois_0: 2824278448993391367
+      Interface_bois_1: -3510407283412554882
+      Interface_bois_10: 8628805529338869977
+      Interface_bois_11: 3754030399200595509
+      Interface_bois_12: -7724009971889293483
+      Interface_bois_13: -1561636495161604143
+      Interface_bois_14: -2729018415131510639
+      Interface_bois_15: -8377180957594502762
+      Interface_bois_16: 9167317675160682694
+      Interface_bois_17: 513870444077746688
+      Interface_bois_18: -5173753127379464833
+      Interface_bois_19: -6509409644132730489
+      Interface_bois_2: -8869009581497320018
+      Interface_bois_20: -6651178037939830073
+      Interface_bois_21: -5300494876248904995
+      Interface_bois_22: 5613318242708730730
+      Interface_bois_23: 3994774071353738287
+      Interface_bois_24: -593133022590002804
+      Interface_bois_25: -9110521885372679393
+      Interface_bois_26: -7679558065799660679
+      Interface_bois_27: 5791812618954616477
+      Interface_bois_28: -8762165272660990451
+      Interface_bois_29: 3249125890300633637
+      Interface_bois_3: -5682899631850520890
+      Interface_bois_30: 4141487463676039266
+      Interface_bois_31: -6564145706215936092
+      Interface_bois_32: -4488909221342063484
+      Interface_bois_33: -5182398701368875957
+      Interface_bois_34: -2296979606823232566
+      Interface_bois_35: 2555695218399069900
+      Interface_bois_36: -7560854079059523213
+      Interface_bois_37: -7793185262028848218
+      Interface_bois_38: 9080875404305685153
+      Interface_bois_39: 2832973833166074354
+      Interface_bois_4: -4880072283595977242
+      Interface_bois_40: 7383292572007609485
+      Interface_bois_41: 4181335190376612226
+      Interface_bois_42: 1762519504680766421
+      Interface_bois_43: 3227198262505059161
+      Interface_bois_44: 2802894131073298859
+      Interface_bois_45: -5108877131562598520
+      Interface_bois_46: -2446476336245202105
+      Interface_bois_47: -6607479344388316936
+      Interface_bois_48: 6167678097312340330
+      Interface_bois_49: 8078436237002215571
+      Interface_bois_5: -4865539939872852941
+      Interface_bois_50: 5940520920140195207
+      Interface_bois_51: 2626487865815803383
+      Interface_bois_52: -6741410768114394446
+      Interface_bois_53: 9033235019224026151
+      Interface_bois_54: 5767286915943555959
+      Interface_bois_55: 7754151635761865392
+      Interface_bois_56: -8504514234493048638
+      Interface_bois_57: 6757626897572733969
+      Interface_bois_58: -6226942942444645065
+      Interface_bois_59: -1733881296931992882
+      Interface_bois_6: -8788362127497195139
+      Interface_bois_60: -150737450453330070
+      Interface_bois_61: -3475188256442044478
+      Interface_bois_62: -6628000847132626640
+      Interface_bois_63: -1279841430133958470
+      Interface_bois_64: -7818829406219978232
+      Interface_bois_65: -8434181225638956959
+      Interface_bois_66: 7849658388147548244
+      Interface_bois_67: 3026124518258845775
+      Interface_bois_68: -4252458752986823948
+      Interface_bois_69: 6222934568531860596
+      Interface_bois_7: 8469515118011815418
+      Interface_bois_70: 5644563865062001820
+      Interface_bois_71: -4032544120451193951
+      Interface_bois_72: 6921064314471993392
+      Interface_bois_73: 1742597994683215995
+      Interface_bois_74: -2085441832471508792
+      Interface_bois_75: 6147956605165857767
+      Interface_bois_76: 5115092673181608571
+      Interface_bois_77: -8903676407042647886
+      Interface_bois_78: 8834596955399066054
+      Interface_bois_79: -8753365425218059743
+      Interface_bois_8: 7997101024980963638
+      Interface_bois_80: -6433926012071351645
+      Interface_bois_81: 3258260493527082755
+      Interface_bois_82: -837817537001838263
+      Interface_bois_9: 5612251400657437566
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

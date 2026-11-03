@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 4f76c2ea2f2e683498b8d196f4501bbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -16273275296554218
+    second: Dino_rouge_0
+  - first:
+      213: 3252972012592121506
+    second: Dino_rouge_1
+  - first:
+      213: -3503237039666687324
+    second: Dino_rouge_2
+  - first:
+      213: 2142985531660431450
+    second: Dino_rouge_3
+  - first:
+      213: -8997765941035148544
+    second: Dino_rouge_4
+  - first:
+      213: -7905305794148649827
+    second: Dino_rouge_5
+  - first:
+      213: -494826213877819055
+    second: Dino_rouge_6
+  - first:
+      213: 844531696148307089
+    second: Dino_rouge_7
+  - first:
+      213: -711565685939403894
+    second: Dino_rouge_8
+  - first:
+      213: 6753931287137944800
+    second: Dino_rouge_9
+  - first:
+      213: -8088328049260777516
+    second: Dino_rouge_10
+  - first:
+      213: -7030650736868398852
+    second: Dino_rouge_11
+  - first:
+      213: 4519229889797722632
+    second: Dino_rouge_12
+  - first:
+      213: -6710294728090000210
+    second: Dino_rouge_13
+  - first:
+      213: -1904177353222842844
+    second: Dino_rouge_14
+  - first:
+      213: 5118032170702632867
+    second: Dino_rouge_15
+  - first:
+      213: 4073837917200834889
+    second: Dino_rouge_16
+  - first:
+      213: 3401252681431314144
+    second: Dino_rouge_17
+  - first:
+      213: -7285857291573458024
+    second: Dino_rouge_18
+  - first:
+      213: -1791081733235234480
+    second: Dino_rouge_19
+  - first:
+      213: 5172819201480048448
+    second: Dino_rouge_20
+  - first:
+      213: 5035127906597927826
+    second: Dino_rouge_21
+  - first:
+      213: 4023141962173150891
+    second: Dino_rouge_22
+  - first:
+      213: -619829394347790680
+    second: Dino_rouge_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dino_rouge_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613ed96da8f26cff0800000000000000
+      internalID: -16273275296554218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a647da7fc0e42d20800000000000000
+      internalID: 3252972012592121506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a21dae2970026fc0800000000000000
+      internalID: -3503237039666687324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50fb6dacf96dbd10800000000000000
+      internalID: 2142985531660431450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bdd708c83812380800000000000000
+      internalID: -8997765941035148544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94beeaa346ba4290800000000000000
+      internalID: -7905305794148649827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159d2402e260229f0800000000000000
+      internalID: -494826213877819055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c5a766a1168bb00800000000000000
+      internalID: 844531696148307089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83893757c20026f0800000000000000
+      internalID: -711565685939403894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e40147c8b8cabd50800000000000000
+      internalID: 6753931287137944800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfabf43e7c70cf80800000000000000
+      internalID: -8088328049260777516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8ee11a76c1e6e90800000000000000
+      internalID: -7030650736868398852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80298bf04a787be30800000000000000
+      internalID: 4519229889797722632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4e40a5f7e30e2a0800000000000000
+      internalID: -6710294728090000210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4261fc739c00395e0800000000000000
+      internalID: -1904177353222842844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a770cb8427e60740800000000000000
+      internalID: 5118032170702632867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941e547600e298830800000000000000
+      internalID: 4073837917200834889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeee0c0b4da33f20800000000000000
+      internalID: 3401252681431314144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 4
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b039b356f63ea90800000000000000
+      internalID: -7285857291573458024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_19
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059a2d637acc427e0800000000000000
+      internalID: -1791081733235234480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_20
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 3
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fb98f28ab89c740800000000000000
+      internalID: 5172819201480048448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_21
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 4
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bfc6f572e50e540800000000000000
+      internalID: 5035127906597927826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_22
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba67c409c4215d730800000000000000
+      internalID: 4023141962173150891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_rouge_23
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 3
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aeed88237ce567f0800000000000000
+      internalID: -619829394347790680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dino_rouge_0: -16273275296554218
+      Dino_rouge_1: 3252972012592121506
+      Dino_rouge_10: -8088328049260777516
+      Dino_rouge_11: -7030650736868398852
+      Dino_rouge_12: 4519229889797722632
+      Dino_rouge_13: -6710294728090000210
+      Dino_rouge_14: -1904177353222842844
+      Dino_rouge_15: 5118032170702632867
+      Dino_rouge_16: 4073837917200834889
+      Dino_rouge_17: 3401252681431314144
+      Dino_rouge_18: -7285857291573458024
+      Dino_rouge_19: -1791081733235234480
+      Dino_rouge_2: -3503237039666687324
+      Dino_rouge_20: 5172819201480048448
+      Dino_rouge_21: 5035127906597927826
+      Dino_rouge_22: 4023141962173150891
+      Dino_rouge_23: -619829394347790680
+      Dino_rouge_3: 2142985531660431450
+      Dino_rouge_4: -8997765941035148544
+      Dino_rouge_5: -7905305794148649827
+      Dino_rouge_6: -494826213877819055
+      Dino_rouge_7: 844531696148307089
+      Dino_rouge_8: -711565685939403894
+      Dino_rouge_9: 6753931287137944800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

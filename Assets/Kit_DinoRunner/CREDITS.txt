@@ -1,0 +1,16 @@
+CRÉDITS ET LICENCES
+===================
+
+Dinosaures (dossier Personnages) – « Dino Characters » par Arks (@ArksDigital)
+   https://arks.itch.io/dino-characters
+   Licence : Creative Commons Attribution 4.0 (CC BY 4.0).
+   => Utilisation libre, MAIS vous devez créditer l'auteur dans votre jeu
+      (écran de crédits) : « Dino Characters by Arks – @ArksDigital ».
+
+Décors, obstacles, collectibles, UI et effets – « Rocky Roads » par Essssam
+   https://essssam.itch.io/rocky-roads
+   Licence : Creative Commons Zero (CC0) – domaine public, aucun crédit obligatoire
+   (mais toujours apprécié).
+
+Cactus du décor (Obstacles/Cactus_*.png) et Interface_bois.png
+   Fournis par l'enseignant pour ce cours.

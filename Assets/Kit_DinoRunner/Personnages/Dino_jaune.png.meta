@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 9e029a8b51b512047acc54ca312e3276
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6588263285386968341
+    second: Dino_jaune_0
+  - first:
+      213: -8500083029652646928
+    second: Dino_jaune_1
+  - first:
+      213: -77810165759340688
+    second: Dino_jaune_2
+  - first:
+      213: 654023104448220013
+    second: Dino_jaune_3
+  - first:
+      213: -1575693482352170155
+    second: Dino_jaune_4
+  - first:
+      213: 4251511568336501308
+    second: Dino_jaune_5
+  - first:
+      213: -4179839445573282332
+    second: Dino_jaune_6
+  - first:
+      213: -9344906463995062
+    second: Dino_jaune_7
+  - first:
+      213: -1811248356816007464
+    second: Dino_jaune_8
+  - first:
+      213: 1528192948838766446
+    second: Dino_jaune_9
+  - first:
+      213: -6858016054334729727
+    second: Dino_jaune_10
+  - first:
+      213: 8520797809766852486
+    second: Dino_jaune_11
+  - first:
+      213: -8251500824895523877
+    second: Dino_jaune_12
+  - first:
+      213: -5733404695122192636
+    second: Dino_jaune_13
+  - first:
+      213: 4386474604581477348
+    second: Dino_jaune_14
+  - first:
+      213: -5984319310934272314
+    second: Dino_jaune_15
+  - first:
+      213: 6636673594265614248
+    second: Dino_jaune_16
+  - first:
+      213: -7158609235515640972
+    second: Dino_jaune_17
+  - first:
+      213: 3507108200940127977
+    second: Dino_jaune_18
+  - first:
+      213: 6413988452365907976
+    second: Dino_jaune_19
+  - first:
+      213: -8285064037642744727
+    second: Dino_jaune_20
+  - first:
+      213: -1285486243460888542
+    second: Dino_jaune_21
+  - first:
+      213: -6222673661678599597
+    second: Dino_jaune_22
+  - first:
+      213: 7323448537503724591
+    second: Dino_jaune_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dino_jaune_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dfc3c4d863e6b50800000000000000
+      internalID: 6588263285386968341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f35a381583a90a80800000000000000
+      internalID: -8500083029652646928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f000601109beef0800000000000000
+      internalID: -77810165759340688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bc88f5c8e831900800000000000000
+      internalID: 654023104448220013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b208d4023022ae0800000000000000
+      internalID: -1575693482352170155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a3925fe37600b30800000000000000
+      internalID: 4251511568336501308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e550748b2a3ef5c0800000000000000
+      internalID: -4179839445573282332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b11c96bdccedff0800000000000000
+      internalID: -9344906463995062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dec8f347372dd6e0800000000000000
+      internalID: -1811248356816007464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e679ac7e36b353510800000000000000
+      internalID: 1528192948838766446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102d371ebbe63d0a0800000000000000
+      internalID: -6858016054334729727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687641e7674ff3670800000000000000
+      internalID: 8520797809766852486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd37244d7b7cc7d80800000000000000
+      internalID: -8251500824895523877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4075fa18ecade60b0800000000000000
+      internalID: -5733404695122192636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebd95e8963efdc30800000000000000
+      internalID: 4386474604581477348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_15
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c690410b4d63fca0800000000000000
+      internalID: -5984319310934272314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7ba6ca8733a1c50800000000000000
+      internalID: 6636673594265614248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473724704d287ac90800000000000000
+      internalID: -7158609235515640972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 4
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e645e9c350cba030800000000000000
+      internalID: 3507108200940127977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_19
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8083ab0c380130950800000000000000
+      internalID: 6413988452365907976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_20
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 3
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cc0f6672a850d80800000000000000
+      internalID: -8285064037642744727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_21
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 4
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228ccd68219092ee0800000000000000
+      internalID: -1285486243460888542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_22
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352c77a164f94a9a0800000000000000
+      internalID: -6222673661678599597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino_jaune_23
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 3
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2473c0c4ad12a560800000000000000
+      internalID: 7323448537503724591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dino_jaune_0: 6588263285386968341
+      Dino_jaune_1: -8500083029652646928
+      Dino_jaune_10: -6858016054334729727
+      Dino_jaune_11: 8520797809766852486
+      Dino_jaune_12: -8251500824895523877
+      Dino_jaune_13: -5733404695122192636
+      Dino_jaune_14: 4386474604581477348
+      Dino_jaune_15: -5984319310934272314
+      Dino_jaune_16: 6636673594265614248
+      Dino_jaune_17: -7158609235515640972
+      Dino_jaune_18: 3507108200940127977
+      Dino_jaune_19: 6413988452365907976
+      Dino_jaune_2: -77810165759340688
+      Dino_jaune_20: -8285064037642744727
+      Dino_jaune_21: -1285486243460888542
+      Dino_jaune_22: -6222673661678599597
+      Dino_jaune_23: 7323448537503724591
+      Dino_jaune_3: 654023104448220013
+      Dino_jaune_4: -1575693482352170155
+      Dino_jaune_5: 4251511568336501308
+      Dino_jaune_6: -4179839445573282332
+      Dino_jaune_7: -9344906463995062
+      Dino_jaune_8: -1811248356816007464
+      Dino_jaune_9: 1528192948838766446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 0bb2dfa6401fa9b408fd456e9524ddd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1200475984333828365
+    second: Chiffres_0
+  - first:
+      213: 6137763748183677315
+    second: Chiffres_1
+  - first:
+      213: -6049851919712305161
+    second: Chiffres_2
+  - first:
+      213: 5758937752517645074
+    second: Chiffres_3
+  - first:
+      213: 2188239665607178396
+    second: Chiffres_4
+  - first:
+      213: 4271782988458761699
+    second: Chiffres_5
+  - first:
+      213: -3261224946480950863
+    second: Chiffres_6
+  - first:
+      213: -1610456803279720485
+    second: Chiffres_7
+  - first:
+      213: 5565931525879477413
+    second: Chiffres_8
+  - first:
+      213: 5795354788471215150
+    second: Chiffres_9
+  - first:
+      213: 2320813278328512131
+    second: Chiffres_10
+  - first:
+      213: 971338344149754387
+    second: Chiffres_11
+  - first:
+      213: -1421695373662568571
+    second: Chiffres_12
+  - first:
+      213: 1939701576072564342
+    second: Chiffres_13
+  - first:
+      213: 2769648319753263132
+    second: Chiffres_14
+  - first:
+      213: 6334809100389219626
+    second: Chiffres_15
+  - first:
+      213: 7640285727981913275
+    second: Chiffres_16
+  - first:
+      213: -9123039268148818450
+    second: Chiffres_17
+  - first:
+      213: -1107918544471591307
+    second: Chiffres_18
+  - first:
+      213: 6591092845046167658
+    second: Chiffres_19
+  - first:
+      213: -1024783011497846750
+    second: Chiffres_20
+  - first:
+      213: 4567049740414334611
+    second: Chiffres_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chiffres_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01fa9f1c82f8a010800000000000000
+      internalID: 1200475984333828365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 18
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38912c51c97bd2550800000000000000
+      internalID: 6137763748183677315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff35d58bbb9a0ca0800000000000000
+      internalID: -6049851919712305161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 18
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213966eaf5bdbef40800000000000000
+      internalID: 5758937752517645074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 18
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c987fefc1603e5e10800000000000000
+      internalID: 2188239665607178396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 18
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed14a0cefb684b30800000000000000
+      internalID: 4271782988458761699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 18
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b15c5c903dcdb2d0800000000000000
+      internalID: -3261224946480950863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 18
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfa66ae11286a9e0800000000000000
+      internalID: -1610456803279720485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 18
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4b134bb392e3d40800000000000000
+      internalID: 5565931525879477413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e249f2a997c3d6050800000000000000
+      internalID: 5795354788471215150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ed7c4616f253020800000000000000
+      internalID: 2320813278328512131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 17
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31223cfd313ea7d00800000000000000
+      internalID: 971338344149754387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fb602179f154ce0800000000000000
+      internalID: -1421695373662568571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e02147e443bea10800000000000000
+      internalID: 1939701576072564342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1896abf874cf6620800000000000000
+      internalID: 2769648319753263132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d7c944053c9e750800000000000000
+      internalID: 6334809100389219626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb449deb36fb70a60800000000000000
+      internalID: 7640285727981913275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedcc0e1f14746180800000000000000
+      internalID: -9123039268148818450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576f3bc24f1ef90f0800000000000000
+      internalID: -1107918544471591307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68789e7504487b50800000000000000
+      internalID: 6591092845046167658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228d0d3d74d37c1f0800000000000000
+      internalID: -1024783011497846750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiffres_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396bfe8aa8b616f30800000000000000
+      internalID: 4567049740414334611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chiffres_0: 1200475984333828365
+      Chiffres_1: 6137763748183677315
+      Chiffres_10: 2320813278328512131
+      Chiffres_11: 971338344149754387
+      Chiffres_12: -1421695373662568571
+      Chiffres_13: 1939701576072564342
+      Chiffres_14: 2769648319753263132
+      Chiffres_15: 6334809100389219626
+      Chiffres_16: 7640285727981913275
+      Chiffres_17: -9123039268148818450
+      Chiffres_18: -1107918544471591307
+      Chiffres_19: 6591092845046167658
+      Chiffres_2: -6049851919712305161
+      Chiffres_20: -1024783011497846750
+      Chiffres_21: 4567049740414334611
+      Chiffres_3: 5758937752517645074
+      Chiffres_4: 2188239665607178396
+      Chiffres_5: 4271782988458761699
+      Chiffres_6: -3261224946480950863
+      Chiffres_7: -1610456803279720485
+      Chiffres_8: 5565931525879477413
+      Chiffres_9: 5795354788471215150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
